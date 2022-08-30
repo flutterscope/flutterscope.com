@@ -8,7 +8,7 @@
 PRODUCT_NAME = flutterscope_com
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.flutterscope.flutterscopeCom
+PRODUCT_BUNDLE_IDENTIFIER = com.flutterscope.flutterscopecom.flutterscopeCom
 
 // The copyright displayed in application information
-PRODUCT_COPYRIGHT = Copyright © 2022 com.flutterscope. All rights reserved.
+PRODUCT_COPYRIGHT = Copyright © 2022 com.flutterscope.flutterscope_com. All rights reserved.

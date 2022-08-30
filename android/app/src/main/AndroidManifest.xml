@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.flutterscope.flutterscope_com">
+    package="com.flutterscope.flutterscope_com.flutterscope_com">
    <application
         android:label="flutterscope_com"
         android:name="${applicationName}"
